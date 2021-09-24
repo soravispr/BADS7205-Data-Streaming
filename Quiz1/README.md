@@ -6,4 +6,4 @@
 
 2. TF-IDF
 
-![diagram_2](https://user-images.githubusercontent.com/43654034/134689481-7c50ae89-eaaf-4251-aae3-3eb8bf0e8dac.jpg)
+![diagram_2](https://user-images.githubusercontent.com/43654034/134690035-23e3dc97-4034-4a62-9813-28d3a83ea583.jpg)
